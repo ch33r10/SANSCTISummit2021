@@ -1,5 +1,5 @@
 # SANSCTISummit2021
-# [![SANSCTISummit2021 header](https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/bhasia%20github%20banner.png)](https://ch33r10.com)
+# [![SANSCTISummit2021 header](https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/ctisummitbanner.png)](https://ch33r10.com)
 <p align='center'>
 <a href="https://twitter.com/Ch33r10"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/twitter%20blue%20logo.png"></a>&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/xena-olsen/"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/linkedin%20logo.png"></a>&nbsp;&nbsp;
