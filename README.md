@@ -55,6 +55,6 @@
  <li>Monnappa K A. Learning Malware Analysis - <a href="https://www.amazon.com/Learning-Malware-Analysis-techniques-investigate-ebook/dp/B073D49Q6W">Link</a></li>
 <hr></hr>
 <h6 align="center"><small>FOR THE LAWYERS</small></h6>
-<h6 align="center"><sub>"The opinions expressed in this Github repo are those of the individual account, in their individual capacity, and not necessarily those of the employers. Use of SCYTHE's Purple Team Exercise Framework (PTEF) does not endorse them as a vendor."</sub></h6>
+<h6 align="center"><sub>"The opinions expressed in this Github repo are those of the individual account, in their individual capacity, and not necessarily those of the employers."</sub></h6>
 
 
