@@ -88,14 +88,14 @@
  </ul>
  <p><h3 align="left"><b>CREATE A PROCESS IN THE EVENT SOMETHING BAD HAPPENS</b></h3></p>
 <ul>
- <li>Use threat modeling combined with intelligence driven incident response to build out solutions that workd for your business model.</li>
+ <li>Use threat modeling combined with intelligence driven incident response to build out solutions that works for your business model.</li>
  <ul><li>Verizon's Data Breach Investigations Report 2020 for the Real Estate Industry recommends security awareness training and implementation of policies and prodecures - <a href="https://enterprise.verizon.com/resources/reports/dbir/2020/data-breach-statistics-by-industry/real-estate-data-security/">Link</a></ul></li>
 <li>Check out your industry's specific Privacy or Data Security Resource</li>
 <ul><li>EX: NAR's Data Security and Privacy Toolkit - <a href="https://www.nar.realtor/data-privacy-security/nars-data-security-and-privacy-toolkit">Link</a></ul></li>
 <li>Use Open Source Intelligence (OSINT) to your advantage</li>
 <ul><li>EX: If you are a real estate agent, set up Google Alerts for your listings to help identify criminal activity.</ul></li>
 <li>Wire Fraud</li>
-<ul><li>Set up a prodecure before it happens on how to deal with wire fraud, including educating your clients.</ul></li>
+<ul><li>Set up a procedure before it happens on how to deal with wire fraud, including educating your clients.</ul></li>
 <ul><ul><li>Does your broker have a wire fraud disclosure form that your clients must sign? Can you create a disclosure surrounding cyber-related threats to have your clients sign (after broker/legal counsel approval)?</ul></ul></li>
 <ul><ul><li>Can you provide a hand out to your client on cybersecurity safety during a transaction?</ul></ul></li>
 <ul><li>There are 72 hours to report wire fraud to your local FBI office to attempt to get the money back.</ul></li>
