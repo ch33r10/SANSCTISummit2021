@@ -9,7 +9,7 @@
 <h5 align="center">🎉<a href="https://open.spotify.com/playlist/1BchDbJaikBd09QIhNVXzf">SANS CTI Summit 2021 Spotify Playlist</a>🎉</h5>
 <p align="center">There's a shadow army of CTI analysts just waiting to be activated; it's the legion of tech-savvy small business owners and solopreneurs. Small business owners and solopreneurs need to wear numerous hats and many have a negative security budget with zero fancy Enterprise security solutions or security staff. How are they surviving the onslaught of cybercrime, fraud, and other unpleasant aspects of doing business? This is where threat intelligence comes in; it's a zero-cost way of keeping your business and customers safe. In this talk, I'll share the practical application of threat intelligence to a real estate business. Join me for an exciting adventure where we will analyze the real estate threat landscape, perform counter intelligence operations, and create threat actor profiles...the tips you learn and share might just save a life! Takeaways include practical CTI suggestions for small businesses and solopreneurs, potential interview questions for hiring managers to ask small business/solopreneur career-transition candidates, and a plan to operationalize threat intelligence for the highly targeted small business owners and solopreneurs in the real estate industry.</p>
 <hr></hr>
-<p><h3 align="center">💌<b>REFERENCES</b>💌</h3></p>
+<p><h1 align="center">💌<b>REFERENCES</b>💌</h1></p>
 <p><h1 align="left">🔮<b>REAL ESTATE THREAT LANDSCAPE</b></h1></p>
 <img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/typesofthreats.jpg">
 <ul>
@@ -32,6 +32,7 @@
 <b></b>
 <p><h1 align="left">💋<b>TYPES OF ATTACKERS IN REAL ESTATE</b></h1></p>
 <img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/types%20of%20attackers.jpg">
+<p><h3 align="left">💋<b>POPULAR "SEXY" ATTACKERS IN REAL ESTATE</b></h3></p>
 <img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/apt41fin6.jpg">
 <ul>
  <li>FireEye APT41 - <a href="https://www.fireeye.com/blog/threat-research/2020/03/apt41-initiates-global-intrusion-campaign-using-multiple-exploits.html">Link</a></li>
@@ -51,9 +52,6 @@
 <p><h1 align="left">🦄<b>CTI ANALYST RESOURCES</b></h1></p>
 <ul>
   <li>Troy Hunt's Streamlining Data Breach Disclosures - <a href="https://www.troyhunt.com/streamlining-data-breach-disclosures-a-step-by-step-process/">Link</a></li>
-  <li>Jorge Orchilles. Purple Team Exercise Framework Workshop - <a href="https://www.scythe.io/library/ptef-workshop">Link</a></li>
- <li>SCYTHE’s Purple Team Exercise Framework - <a href="https://www.scythe.io/ptef">Link</a></li>
-  <li>SCYTHE's Community Threats - <a href="https://github.com/scythe-io/community-threats">Link</a></li>
  </ul>
  <b></b>
  <p><h1 align="left">✨<b>CAREER CHANGER INTERVIEW QUESTIONS</b></h1></p>
@@ -66,11 +64,35 @@
 </ul>
 <b></b>
  <p><h1 align="left">🦾<b>REAL ESTATE AGENT/SMALL BUSINESS/SOLOPRENEUR RESOURCES</b></h1></p>
+ <p><h3 align="left"><b>SURVEY THE THREAT LANDSCAPE FOR YOUR INDUSTRY</b></h3></p>
 <ul>
-  <li>Troy Hunt's Streamlining Data Breach Disclosures - <a href="https://www.troyhunt.com/streamlining-data-breach-disclosures-a-step-by-step-process/">Link</a></li>
-  <li>Jorge Orchilles. Purple Team Exercise Framework Workshop - <a href="https://www.scythe.io/library/ptef-workshop">Link</a></li>
- <li>SCYTHE’s Purple Team Exercise Framework - <a href="https://www.scythe.io/ptef">Link</a></li>
-  <li>SCYTHE's Community Threats - <a href="https://github.com/scythe-io/community-threats">Link</a></li>
+ <li>Perform a Google search for your industry plus keywords, such as: cyber, cybersecurity, phishing, ransomware, breach</li>
+ <li>SANS Internet Storm Center ISC - Review it periodically for cybersecurity related news - <a href="https://isc.sans.edu/forums/diary/Realtors+Be+Aware+You+Are+a+Target/21911/">Link</a></li>
+ <li>Sign up for a FREE Dark Web Intel Report from Intel471 - Periscope. It will provide you with TLP: Amber information that can help keep you informed of the criminal underworld - <a href="https://intel471.com/periscope/">Link</a></li>
+ <li>Check out the Verizon Data Breach Investigations Report for your industry - <a href="https://enterprise.verizon.com/resources/reports/dbir/2020/data-breach-statistics-by-industry/real-estate-data-security/">Link</a></li>
+  </ul>
+   <p><h3 align="left"><b>CREATE THREAT ACTIVITY GROUPS</b></h3></p>
+<ul>
+ <li>Review past incidents</li>
+  <ul><li>Example: Competitor exchanges, type of malicious emails, attempted BEC, attempted wire fraud, ransomware, website down, website hosting malicious content, malicious SMS, calls at 3am, legitimate listings taken down, sign removed from properties, website defacement, malware, compromised accounts, etc.</ul></li>
+  <li>Ask peers/colleagues about their common types of attacks</li>
+  <li>Break down the Threats into categories that work for your business</li>
+  <ul><li>Destructive: malware, ransomware, exploits, website defacement, DDoS, etc</ul></li>
+  <ul><li>Financial: infostealers, BEC, wire fraud, thread hijacking, phishing, malware, impersonation of listings/clients/vendors/etc</ul></li>
+  <ul><li>Intellectual property/client information Theft</ul></li>
+  <li>Brainstorm Mitigating Controls</li>
+ <ul><li>Create a procedure to deal with wire fraud, BEC, ransomware, etc.</ul></li>
+ <ul><li>Create reminders to slow down when going through email.</ul></li>
+ <ul><li>Practice better operational security (opsec) when out in public and around competitors</ul></li>
+ <li>Track the type of malicious email campaigns that you see over time to guide your training, technology, and time/money investment in cybersecurity related items</li>
+ </ul>
+ <p><h3 align="left"><b>CREATE A PROCESS IN THE EVENT SOMETHING BAD HAPPENS</b></h3></p>
+<ul>
+ </ul>
+<p><h3 align="left"><b>SET UP AN INTEL SHARING GROUP FOR YOUR INDUSTRY</b></h3></p>
+
+<p><h3 align="left"><b>OTHER GOOD RESOURCES</b></h3></p>
+<ul>
  </ul>
 <hr></hr>
 <h6 align="center"><small>FOR THE LAWYERS</small></h6>
