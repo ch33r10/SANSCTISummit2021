@@ -16,8 +16,8 @@
  <li>FBI's Internet Crime Report 2019 - <a href="https://pdf.ic3.gov/2019_IC3Report.pdf">Link</a></p>
  <li>Verizon's Data Breach Investigations Report 2020 - <a href="https://enterprise.verizon.com/resources/reports/dbir/2020/data-breach-statistics-by-industry/real-estate-data-security/">Link</a></li>
 </ul> 
-<p></p>
-<p>🦾<b>RANSOMWARE</b></p>
+<b></b>
+<p>👾<b>RANSOMWARE IN REAL ESTATE</b></p>
 <img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/ransomwareblogs.jpg">
 <img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/TOPrealestateransomware.jpg">
 <ul>
@@ -29,35 +29,47 @@
  <li>The DFIR Report - Netwalker Ransomware - <a href="https://thedfirreport.com/2020/08/31/netwalker-ransomware-in-1-hour/">Link</a></li>
  <li>Proofpoint Blog by <a href="https://twitter.com/sherrod_im">Sherrod DeGrippo</a> on Real Estate Attackers - <a href="https://www.proofpoint.com/us/threat-insight/post/new-real-estate-research-attackers-target-full-transaction-chain">Link</a></li>
 </ul>
-<p></p>
-<p>💋<b>TYPES OF ATTACKERS</b></p>
+<b></b>
+<p>💋<b>TYPES OF ATTACKERS IN REAL ESTATE</b></p>
+<img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/types%20of%20attackers.jpg">
+<img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/apt41fin6.jpg">
 <ul>
- <li>Amy Bejtlich. Analytic Tradecraft in the Real World - <a href="https://youtu.be/MWJZsW9HooY">Link</a></li>
- <li>Brian P. Kime. Threat Intelligence: Planning and Direction - <a href="https://www.sans.org/reading-room/whitepapers/threatintelligence/threat-intelligence-planning-direction-36857">Link</a></li>
- <li>Rebekah Brown & Robert M. Lee. The Evolution of CTI: 2019 SANS CTI Survey - <a href="https://www.sans.org/reading-room/whitepapers/threats/paper/38790#:~:text=SANS%20has%20been%20tracking%20the,its%20applications%20in%20information%20security.&text=While%20the%20use%20of%20CTI,size%2Dfits%2Dall%20approach">Link</a></li>
- <li>Scott J. Roberts. CTI Squad Goals-Setting Requirements - <a href="https://medium.com/@sroberts/cti-squadgoals-setting-requirements-41bcb63db918">Link</a></li>
- <li>Sergio Caltagirone. Building Threat Hunting Strategies with the Diamond Model - <a href="http://www.activeresponse.org/building-threat-hunting-strategy-with-the-diamond-model/">Link</a></li>
- <li>Sergio Caltagirone, Andrew Pendergast, & Christopher Betz. The Diamond Model of Intrusion Analysis - <a href="https://apps.dtic.mil/dtic/tr/fulltext/u2/a586960.pdf">Link</a></li>  
+ <li>FireEye APT41 - <a href="https://www.fireeye.com/blog/threat-research/2020/03/apt41-initiates-global-intrusion-campaign-using-multiple-exploits.html">Link</a></li>
+ <li>SCYTHE APT41 - <a href="https://www.scythe.io/library/threatthursday-apt41">Link</a></li>
+ <li>MITRE ATT&CK APT41 - <a href="https://attack.mitre.org/groups/G0096/">Link</a></li>
+ <li>SCYTHE FIN6 - <a href="https://www.scythe.io/library/threatthursday-fin6">Link</a></li>
+ <li>Center for Threat Informed Defense FIN6 - <a href="https://github.com/center-for-threat-informed-defense/adversary_emulation_library/blob/master/fin6/Intelligence_Summary.md">Link</a></li> 
 </ul>
-<p>💅<b>HUNT</b></p>
+<b></b>
+<p>💅<b>HAWT TAKES</b></p>
 <ul>
- <li>David J. Bianco and Cat Self. SANS Threat Hunting & IR Europe Summit 2020 - <a href="https://youtu.be/HInxsRyYCK4">Link</a></li>
- <li>Joshua Stevens. Hunting for the Undefined Threat: Advanced Analytics & Visualization. RSA Conference 2015 - <a href="https://docs.huihoo.com/rsaconference/usa-2015/anf-w04-hunting-the-undefined-threat-advanced-analytics-visualization.pdf">Link</a></li>
- <li>Matt Bromiley. Thinking like a Hunter: Implementing a Threat Hunting Program. SANS Analyst Paper - <a href="https://www.sans.org/reading-room/whitepapers/analyst/thinking-hunter-implementing-threat-hunting-program-38923">Link</a></li>
- <li>Robert M. Lee and David J. Bianco. Generating Hypotheses for Successful Threat Hunting. SANS Analyst White Paper - <a href="https://www.sans.org/reading-room/whitepapers/threats/generating-hypotheses-successful-threat-hunting-37172">Link</a></li>
-   <li>Roberto Rodriguez. How Hot is your Hunt Team? - <a href="https://cyberwardog.blogspot.com/2017/07/how-hot-is-your-hunt-team.html">Link</a></li>
+  <li>Sergio Caltagirone. Building Threat Hunting Strategies with the Diamond Model - <a href="http://www.activeresponse.org/building-threat-hunting-strategy-with-the-diamond-model/">Link</a></li>
+ <li>Sergio Caltagirone, Andrew Pendergast, & Christopher Betz. The Diamond Model of Intrusion Analysis - <a href="https://apps.dtic.mil/dtic/tr/fulltext/u2/a586960.pdf">Link</a></li> 
   </ul>
-<p>🦄<b>PURPLE</b></p>
+  <img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/pyramid%20of%20pain.jpg">
+  <b></b>
+<p>🦄<b>CTI ANALYST RESOURCES</b></p>
 <ul>
-  <li>C2 Matrix - <a href="https://www.thec2matrix.com">Link</a></li>
+  <li>Troy Hunt's Streamlining Data Breach Disclosures - <a href="https://www.troyhunt.com/streamlining-data-breach-disclosures-a-step-by-step-process/">Link</a></li>
   <li>Jorge Orchilles. Purple Team Exercise Framework Workshop - <a href="https://www.scythe.io/library/ptef-workshop">Link</a></li>
  <li>SCYTHE’s Purple Team Exercise Framework - <a href="https://www.scythe.io/ptef">Link</a></li>
   <li>SCYTHE's Community Threats - <a href="https://github.com/scythe-io/community-threats">Link</a></li>
  </ul>
- <p>👾<b>MALWARE ANALYSIS</b></p>
+ <p>✨<b>CAREER CHANGER INTERVIEW QUESTIONS</b></p>
  <ul>
- <li>Coleman Kane. Malware Analysis - <a href="https://class.malware.re/">Link</a></li>
- <li>Monnappa K A. Learning Malware Analysis - <a href="https://www.amazon.com/Learning-Malware-Analysis-techniques-investigate-ebook/dp/B073D49Q6W">Link</a></li>
+ <li>How do you assess threats in your business?</li>
+ <li>How do you determine the threat of your competitors?</li>
+ <li>How did you handle ethical issues with brokers, clients, competitors, or vendors?</li>
+ <li>How do you perform research for a property or neighborhood?</li>
+ <li>What actions did you take to ensure the deal ran smoothly?</li>
+</ul>
+ <p>🦾<b>REAL ESTATE AGENT/SMALL BUSINESS/SOLOPRENEUR RESOURCES</b></p>
+<ul>
+  <li>Troy Hunt's Streamlining Data Breach Disclosures - <a href="https://www.troyhunt.com/streamlining-data-breach-disclosures-a-step-by-step-process/">Link</a></li>
+  <li>Jorge Orchilles. Purple Team Exercise Framework Workshop - <a href="https://www.scythe.io/library/ptef-workshop">Link</a></li>
+ <li>SCYTHE’s Purple Team Exercise Framework - <a href="https://www.scythe.io/ptef">Link</a></li>
+  <li>SCYTHE's Community Threats - <a href="https://github.com/scythe-io/community-threats">Link</a></li>
+ </ul>
 <hr></hr>
 <h6 align="center"><small>FOR THE LAWYERS</small></h6>
 <h6 align="center"><sub>"The opinions expressed in this Github repo are those of the individual account, in their individual capacity, and not necessarily those of the employers."</sub></h6>
