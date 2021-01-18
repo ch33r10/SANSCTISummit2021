@@ -121,6 +121,9 @@
 <ul>
  <li>Top Cybersecurity Threats to Real Estate Companies - <a href="https://www.finextra.com/blogposting/16662/the-top-cyber-security-threats-to-real-estate-companies">Link</a></li>
  <li>National Association of Realtors (NAR) Cybersecurity Checklist - <a href="https://www.nar.realtor/law-and-ethics/cybersecurity-checklist-best-practices-for-real-estate-professionals">Link</a></li>
+<li>California Association of Realtor's (CAR) Resources on Cyber Crime in the Real Estate Industry - <a href="https://www.car.org/riskmanagement/tools/cybercrime/">Link</a></li>
+<li>Arizona Real Estate Investors Association (AZREIA) Resources on Cyber Crime & Real Estate - <a href="https://azreia.org/cyber-crime-real-estate/">Link</a></li>
+<li>Look up Continuing Education or Training related to Cyber Crime and your Industry, such as: Real Estate Training Institute's Cyber Crime and Real Estate Course for 3 Hr Continuing Education Credit - <a href="https://www.realestatetraininginstitute.com/2019/01/10/cyber-crime-and-real-estate/">Link</a></li>
  </ul>
 <hr></hr>
 <h6 align="center"><small>FOR THE LAWYERS</small></h6>
