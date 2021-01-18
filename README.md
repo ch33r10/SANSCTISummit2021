@@ -125,6 +125,12 @@
 <li>Arizona Real Estate Investors Association (AZREIA) Resources on Cyber Crime & Real Estate - <a href="https://azreia.org/cyber-crime-real-estate/">Link</a></li>
 <li>Look up Continuing Education or Training related to Cyber Crime and your Industry, such as: Real Estate Training Institute's Cyber Crime and Real Estate Course for 3 Hr Continuing Education Credit - <a href="https://www.realestatetraininginstitute.com/2019/01/10/cyber-crime-and-real-estate/">Link</a></li>
  </ul>
+ <b></b>
+<p><h1 align="left">🎀<b>HAND-OUT</b></h1></p>
+<ul>
+ <li>The Hand-out can be found under the Resources folder in this GitHub Repo - <a href="https://github.com/ch33r10/SANSCTISummit2021/blob/main/Resources/real%20estate%20threat%20landscape.png">Link</a></li>
+ </ul>
+<img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/Resources/real%20estate%20threat%20landscape.png">
 <hr></hr>
 <h6 align="center"><small>FOR THE LAWYERS</small></h6>
 <h6 align="center"><sub>"The opinions expressed in this Github repo are those of the individual account, in their individual capacity, and not necessarily those of the employers."</sub></h6>
