@@ -10,22 +10,27 @@
 <p align="center">There's a shadow army of CTI analysts just waiting to be activated; it's the legion of tech-savvy small business owners and solopreneurs. Small business owners and solopreneurs need to wear numerous hats and many have a negative security budget with zero fancy Enterprise security solutions or security staff. How are they surviving the onslaught of cybercrime, fraud, and other unpleasant aspects of doing business? This is where threat intelligence comes in; it's a zero-cost way of keeping your business and customers safe. In this talk, I'll share the practical application of threat intelligence to a real estate business. Join me for an exciting adventure where we will analyze the real estate threat landscape, perform counter intelligence operations, and create threat actor profiles...the tips you learn and share might just save a life! Takeaways include practical CTI suggestions for small businesses and solopreneurs, potential interview questions for hiring managers to ask small business/solopreneur career-transition candidates, and a plan to operationalize threat intelligence for the highly targeted small business owners and solopreneurs in the real estate industry.</p>
 <hr></hr>
 <p><h3 align="center">💌<b>REFERENCES</b>💌</h3></p>
-<p>🔮<b>ATTRIBUTION</b></p>
+<p>🔮<b>REAL ESTATE THREAT LANDSCAPE</b></p>
+<img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/typesofthreats.jpg">
 <ul>
- <li>Brian Bartholomew & Juan Andres Guerrero-Saade. Wave Your False Flags! Deception Tactics Muddying Attribution in Targeted Attacks - <a href="https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2017/10/20114955/Bartholomew-GuerreroSaade-VB2016.pdf">Link</a></p>
- <li>Jake Williams. Conducting a Successful False Flag Operation. BlackHat Europe 2019 - <a href="https://youtu.be/W2vBu_Jui9A">Link</a></li>
- <li>Jason D. Jolley. Attribution, State Responsibility, and the Duty to Prevent Malicious Cyber-Attacks in International Law - <a href="https://www.amazon.com/ATTRIBUTION-RESPONSIBILITY-MALICIOUS-CYBER-ATTACKS-INTERNATIONAL-ebook/dp/B07TYJYFYM/ref=sr_1_1?dchild=1&keywords=jason+jolley+attribution&qid=1599458954&sr=8-1">Link</a></li>
- <li>Katie Nickels. The Attribution Game: When Knowing Your Adversary Matters - <a href="https://redcanary.com/blog/apt-attribution-rsa/">Link</a></li>
- <li>Robert M. Lee. The Problems with Seeking and Avoiding True Attribution to Cyber Attacks - <a href="https://www.sans.org/blog/the-problems-with-seeking-and-avoiding-true-attribution-to-cyber-attacks/">Link</a></li>
- <li>Thomas Rid & Ben Buchanan. Attributing Cyber Attacks - <a href="https://ridt.co/d/rid-buchanan-attributing-cyber-attacks.pdf">Link</a></li>
- <li>Tim Maurer. Cyber Mercenaries: The State, Hackers, and Power - <a href="https://www.amazon.com/Cyber-Mercenaries-State-Hackers-Power/dp/110756686X/ref=sr_1_1?dchild=1&keywords=tim+cyber+mercenaries&qid=1599459104&sr=8-1">Link</a></li>
+ <li>FBI's Internet Crime Report 2019 - <a href="https://pdf.ic3.gov/2019_IC3Report.pdf">Link</a></p>
+ <li>Verizon's Data Breach Investigations Report 2020 - <a href="https://enterprise.verizon.com/resources/reports/dbir/2020/data-breach-statistics-by-industry/real-estate-data-security/">Link</a></li>
 </ul> 
-<p>🦾<b>TTPs</b></p>
+<p></p>
+<p>🦾<b>RANSOMWARE</b></p>
+<img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/ransomwareblogs.jpg">
+<img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/TOPrealestateransomware.jpg">
 <ul>
-  <li>Adam Pennington. Emulating an Adversary with Imperfect Intelligence. DEF CON 28 Red Team Village - <a href="https://youtu.be/cXlWY3OnjO0">Link</a></li>
- <li>MITRE ATT&CK TTP Training - <a href="https://attack.mitre.org/resources/training/cti/">Link</a></li>
+ <li>Cybereason vs Conti Ransomware - <a href="https://www.cybereason.com/blog/cybereason-vs.-conti-ransomware">Link</a></li>
+ <li>SCYTHE Egregor Ransomware - <a href="https://www.scythe.io/library/threatthursday-egregor-ransomware">Link</a></li>
+ <li>Sophos Egregor Ransomware - <a href="https://news.sophos.com/en-us/2020/12/08/egregor-ransomware-mazes-heir-apparent/">Link</a></li>
+ <li>MITRE ATT&CK Netwalker Ransomware - <a href="https://attack.mitre.org/software/S0457/">Link</a></li>
+ <li>Sophos Netwalker Ransomware - <a href="https://news.sophos.com/en-us/2020/05/27/netwalker-ransomware-tools-give-insight-into-threat-actor/">Link</a></li>
+ <li>The DFIR Report - Netwalker Ransomware - <a href="https://thedfirreport.com/2020/08/31/netwalker-ransomware-in-1-hour/">Link</a></li>
+ <li>Proofpoint Blog by <a href="https://twitter.com/sherrod_im">Sherrod DeGrippo</a> on Real Estate Attackers - <a href="https://www.proofpoint.com/us/threat-insight/post/new-real-estate-research-attackers-target-full-transaction-chain">Link</a></li>
 </ul>
-<p>💋<b>CYBER THREAT INTELLIGENCE</b></p>
+<p></p>
+<p>💋<b>TYPES OF ATTACKERS</b></p>
 <ul>
  <li>Amy Bejtlich. Analytic Tradecraft in the Real World - <a href="https://youtu.be/MWJZsW9HooY">Link</a></li>
  <li>Brian P. Kime. Threat Intelligence: Planning and Direction - <a href="https://www.sans.org/reading-room/whitepapers/threatintelligence/threat-intelligence-planning-direction-36857">Link</a></li>
