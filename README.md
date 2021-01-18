@@ -66,7 +66,7 @@
  <p><h1 align="left">🦾<b>REAL ESTATE AGENT/SMALL BUSINESS/SOLOPRENEUR RESOURCES</b></h1></p>
  <p><h3 align="left"><b>SURVEY THE THREAT LANDSCAPE FOR YOUR INDUSTRY</b></h3></p>
 <ul>
- <li>Perform a Google search for your industry plus keywords, such as: cyber, cybersecurity, phishing, ransomware, breach</li>
+ <li>Perform a Google search for your industry plus keywords, such as: cyber, cybersecurity, phishing, ransomware, breach, eCrime, cyber crime, etc</li>
  <li>SANS Internet Storm Center ISC - Review it periodically for cybersecurity related news - <a href="https://isc.sans.edu/forums/diary/Realtors+Be+Aware+You+Are+a+Target/21911/">Link</a></li>
  <li>Sign up for a FREE Dark Web Intel Report from Intel471 - Periscope. It will provide you with TLP: Amber information that can help keep you informed of the criminal underworld - <a href="https://intel471.com/periscope/">Link</a></li>
  <li>Check out the Verizon Data Breach Investigations Report for your industry - <a href="https://enterprise.verizon.com/resources/reports/dbir/2020/data-breach-statistics-by-industry/real-estate-data-security/">Link</a></li>
