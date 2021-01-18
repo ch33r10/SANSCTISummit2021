@@ -103,7 +103,7 @@
 <ul><li>Resource: Stop Wire Fraud - <a href="https://stopwirefraud.org/how-wire-fraud-happens/">Link</a></ul></li>
 <li>Ransomware</li>
 <ul><li>Do you backup your data? Where do you keep your backups? Do you have extra money to buy another computer...just in case? How will you notify your clients? Will you notify your clients?</ul></li>
-<li>Patchin</li>
+<li>Patching</li>
 <ul><li>How often do you update your website with the latest updates? How often do you patch your computer? How often do you install updates on your phone?</ul></li>
 <li>Cybersecurity Hygiene</li>
 <ul><li>Do you have 2FA set up for your accounts? Do you use a password manager? Do you use a VPN on public WIFI?</ul></li>
