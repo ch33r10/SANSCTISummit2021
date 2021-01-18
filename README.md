@@ -88,11 +88,39 @@
  </ul>
  <p><h3 align="left"><b>CREATE A PROCESS IN THE EVENT SOMETHING BAD HAPPENS</b></h3></p>
 <ul>
+ <li>Use threat modeling combined with intelligence driven incident response to build out solutions that workd for your business model.</li>
+ <ul><li>Verizon's Data Breach Investigations Report 2020 for the Real Estate Industry recommends security awareness training and implementation of policies and prodecures - <a href="https://enterprise.verizon.com/resources/reports/dbir/2020/data-breach-statistics-by-industry/real-estate-data-security/">Link</a></ul></li>
+<li>Check out your industry's specific Privacy or Data Security Resource</li>
+<ul><li>EX: NAR's Data Security and Privacy Toolkit - <a href="https://www.nar.realtor/data-privacy-security/nars-data-security-and-privacy-toolkit">Link</a></ul></li>
+<li>Use Open Source Intelligence (OSINT) to your advantage</li>
+<ul><li>EX: If you are a real estate agent, set up Google Alerts for your listings to help identify criminal activity.</ul></li>
+<li>Wire Fraud</li>
+<ul><li>Set up a prodecure before it happens on how to deal with wire fraud, including educating your clients.</ul></li>
+<ul><ul><li>Does your broker have a wire fraud disclosure form that your clients must sign? Can you create a disclosure surrounding cyber-related threats to have your clients sign (after broker/legal counsel approval)?</ul></ul></li>
+<ul><ul><li>Can you provide a hand out to your client on cybersecurity safety during a transaction?</ul></ul></li>
+<ul><li>There are 72 hours to report wire fraud to your local FBI office to attempt to get the money back.</ul></li>
+<ul><li>NAR has a good resource on Wire Fraud and Cybersecurity Tips - <a href="https://www.nar.realtor/videos/cyber-crime-cyber-security-and-the-real-estate-professional">Link</a></ul></li>
+<ul><li>Resource: Stop Wire Fraud - <a href="https://stopwirefraud.org/how-wire-fraud-happens/">Link</a></ul></li>
+<li>Ransomware</li>
+<ul><li>Do you backup your data? Where do you keep your backups? Do you have extra money to buy another computer...just in case? How will you notify your clients? Will you notify your clients?</ul></li>
+<li>Patchin</li>
+<ul><li>How often do you update your website with the latest updates? How often do you patch your computer? How often do you install updates on your phone?</ul></li>
+<li>Cybersecurity Hygiene</li>
+<ul><li>Do you have 2FA set up for your accounts? Do you use a password manager? Do you use a VPN on public WIFI?</ul></li>
+<ul><li>Do you have Antivirus on your devices?</ul></li>
+<ul><li>Do you review access to your various accounts?</ul></li>
+<ul><li>How often do you review the email rules? Do you know what is being forwarded, deleted, moved, etc?</ul></li>
+<ul><li>Does your broker have cyber insurance or cyber breaches added in the E&O insurance?</ul></li>
+<ul><li>Can you insist on working with title companies, banks, vendors, and other Realtors that protect the data in transit, such as using encryption services/password protected pdfs with out of band passwords, etc?</ul></li>
+<ul><li>If you hire a tech/security company, what kind of recourse do you have if they mess up?</ul></li>
+<li>Specialize in neighborhoods/areas, know your products/inventory and your competitors very well.</li>
  </ul>
 <p><h3 align="left"><b>SET UP AN INTEL SHARING GROUP FOR YOUR INDUSTRY</b></h3></p>
 
 <p><h3 align="left"><b>OTHER GOOD RESOURCES</b></h3></p>
 <ul>
+ <li>Top Cybersecurity Threats to Real Estate Companies - <a href="https://www.finextra.com/blogposting/16662/the-top-cyber-security-threats-to-real-estate-companies">Link</a></li>
+ <li>National Association of Realtors (NAR) Cybersecurity Checklist - <a href="https://www.nar.realtor/law-and-ethics/cybersecurity-checklist-best-practices-for-real-estate-professionals">Link</a></li>
  </ul>
 <hr></hr>
 <h6 align="center"><small>FOR THE LAWYERS</small></h6>
