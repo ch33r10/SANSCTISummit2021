@@ -10,14 +10,14 @@
 <p align="center">There's a shadow army of CTI analysts just waiting to be activated; it's the legion of tech-savvy small business owners and solopreneurs. Small business owners and solopreneurs need to wear numerous hats and many have a negative security budget with zero fancy Enterprise security solutions or security staff. How are they surviving the onslaught of cybercrime, fraud, and other unpleasant aspects of doing business? This is where threat intelligence comes in; it's a zero-cost way of keeping your business and customers safe. In this talk, I'll share the practical application of threat intelligence to a real estate business. Join me for an exciting adventure where we will analyze the real estate threat landscape, perform counter intelligence operations, and create threat actor profiles...the tips you learn and share might just save a life! Takeaways include practical CTI suggestions for small businesses and solopreneurs, potential interview questions for hiring managers to ask small business/solopreneur career-transition candidates, and a plan to operationalize threat intelligence for the highly targeted small business owners and solopreneurs in the real estate industry.</p>
 <hr></hr>
 <p><h3 align="center">💌<b>REFERENCES</b>💌</h3></p>
-<p>🔮<b>REAL ESTATE THREAT LANDSCAPE</b></p>
+<p><h1 align="left">🔮<b>REAL ESTATE THREAT LANDSCAPE</b></h1></p>
 <img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/typesofthreats.jpg">
 <ul>
  <li>FBI's Internet Crime Report 2019 - <a href="https://pdf.ic3.gov/2019_IC3Report.pdf">Link</a></p>
  <li>Verizon's Data Breach Investigations Report 2020 - <a href="https://enterprise.verizon.com/resources/reports/dbir/2020/data-breach-statistics-by-industry/real-estate-data-security/">Link</a></li>
 </ul> 
 <b></b>
-<p>👾<b>RANSOMWARE IN REAL ESTATE</b></p>
+<p><h1 align="left">👾<b>RANSOMWARE IN REAL ESTATE</b></h1></p>
 <img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/ransomwareblogs.jpg">
 <img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/TOPrealestateransomware.jpg">
 <ul>
@@ -30,7 +30,7 @@
  <li>Proofpoint Blog by <a href="https://twitter.com/sherrod_im">Sherrod DeGrippo</a> on Real Estate Attackers - <a href="https://www.proofpoint.com/us/threat-insight/post/new-real-estate-research-attackers-target-full-transaction-chain">Link</a></li>
 </ul>
 <b></b>
-<p>💋<b>TYPES OF ATTACKERS IN REAL ESTATE</b></p>
+<p><h1 align="left">💋<b>TYPES OF ATTACKERS IN REAL ESTATE</b></h1></p>
 <img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/types%20of%20attackers.jpg">
 <img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/apt41fin6.jpg">
 <ul>
@@ -41,21 +41,22 @@
  <li>Center for Threat Informed Defense FIN6 - <a href="https://github.com/center-for-threat-informed-defense/adversary_emulation_library/blob/master/fin6/Intelligence_Summary.md">Link</a></li> 
 </ul>
 <b></b>
-<p>💅<b>HAWT TAKES</b></p>
+<p><h1 align="left">💅<b>HAWT TAKES</b></h1></p>
 <ul>
   <li>Sergio Caltagirone. Building Threat Hunting Strategies with the Diamond Model - <a href="http://www.activeresponse.org/building-threat-hunting-strategy-with-the-diamond-model/">Link</a></li>
  <li>Sergio Caltagirone, Andrew Pendergast, & Christopher Betz. The Diamond Model of Intrusion Analysis - <a href="https://apps.dtic.mil/dtic/tr/fulltext/u2/a586960.pdf">Link</a></li> 
   </ul>
   <img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/pyramid%20of%20pain.jpg">
   <b></b>
-<p>🦄<b>CTI ANALYST RESOURCES</b></p>
+<p><h1 align="left">🦄<b>CTI ANALYST RESOURCES</b></h1></p>
 <ul>
   <li>Troy Hunt's Streamlining Data Breach Disclosures - <a href="https://www.troyhunt.com/streamlining-data-breach-disclosures-a-step-by-step-process/">Link</a></li>
   <li>Jorge Orchilles. Purple Team Exercise Framework Workshop - <a href="https://www.scythe.io/library/ptef-workshop">Link</a></li>
  <li>SCYTHE’s Purple Team Exercise Framework - <a href="https://www.scythe.io/ptef">Link</a></li>
   <li>SCYTHE's Community Threats - <a href="https://github.com/scythe-io/community-threats">Link</a></li>
  </ul>
- <p>✨<b>CAREER CHANGER INTERVIEW QUESTIONS</b></p>
+ <b></b>
+ <p><h1 align="left">✨<b>CAREER CHANGER INTERVIEW QUESTIONS</b></h1></p>
  <ul>
  <li>How do you assess threats in your business?</li>
  <li>How do you determine the threat of your competitors?</li>
@@ -63,7 +64,8 @@
  <li>How do you perform research for a property or neighborhood?</li>
  <li>What actions did you take to ensure the deal ran smoothly?</li>
 </ul>
- <p>🦾<b>REAL ESTATE AGENT/SMALL BUSINESS/SOLOPRENEUR RESOURCES</b></p>
+<b></b>
+ <p><h1 align="left">🦾<b>REAL ESTATE AGENT/SMALL BUSINESS/SOLOPRENEUR RESOURCES</b></h1></p>
 <ul>
   <li>Troy Hunt's Streamlining Data Breach Disclosures - <a href="https://www.troyhunt.com/streamlining-data-breach-disclosures-a-step-by-step-process/">Link</a></li>
   <li>Jorge Orchilles. Purple Team Exercise Framework Workshop - <a href="https://www.scythe.io/library/ptef-workshop">Link</a></li>
