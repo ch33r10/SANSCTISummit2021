@@ -30,6 +30,9 @@
  <li>Proofpoint Blog by <a href="https://twitter.com/sherrod_im">Sherrod DeGrippo</a> on Real Estate Attackers - <a href="https://www.proofpoint.com/us/threat-insight/post/new-real-estate-research-attackers-target-full-transaction-chain">Link</a></li>
 </ul>
 <b></b>
+<p><h3 align="left">🔥<b>CYBERSECURITY SOLUTIONS FOR THE REAL ESTATE THREAT LANDSCAPE</b></h3></p>
+<img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/realestatecybersecuritysolutions.jpg">
+<b></b>
 <p><h1 align="left">💋<b>TYPES OF ATTACKERS IN REAL ESTATE</b></h1></p>
 <img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/types%20of%20attackers.jpg">
 <p><h3 align="left">💋<b>POPULAR "SEXY" ATTACKERS IN REAL ESTATE</b></h3></p>
