@@ -6,7 +6,9 @@
 </p>
 <h3 align="center">🏡THE CTI SHADOW ARMY: TALES FROM THE TRENCHES🏡</h3>
 <h4 align="center">SMALL BUSINESS OWNER/SOLOPRENEUR EDITION</h4>
+<h3 align="center">SLIDES😘😘😘 - <a href="https://github.com/ch33r10/SANSCTISummit2021/blob/main/Resources/SANS%20CTI%20Summit%202021_The%20CTI%20Shadow%20Army%20Tales%20from%20the%20Trenches.pdf">Link</a></h3>
 <h2 align="center">🎵SANS CTI SUMMIT SPOTIFY PLAYLIST🎵 - <a href="https://open.spotify.com/playlist/1BchDbJaikBd09QIhNVXzf">Link</a></h2>
+<p><h3 align="left"><b>ABSTRACT</b></h3></p>
 <p align="center">There's a shadow army of CTI analysts just waiting to be activated; it's the legion of tech-savvy small business owners and solopreneurs. Small business owners and solopreneurs need to wear numerous hats and many have a negative security budget with zero fancy Enterprise security solutions or security staff. How are they surviving the onslaught of cybercrime, fraud, and other unpleasant aspects of doing business? This is where threat intelligence comes in; it's a zero-cost way of keeping your business and customers safe. In this talk, I'll share the practical application of threat intelligence to a real estate business. Join me for an exciting adventure where we will analyze the real estate threat landscape, perform counter intelligence operations, and create threat actor profiles...the tips you learn and share might just save a life! Takeaways include practical CTI suggestions for small businesses and solopreneurs, potential interview questions for hiring managers to ask small business/solopreneur career-transition candidates, and a plan to operationalize threat intelligence for the highly targeted small business owners and solopreneurs in the real estate industry.</p>
 <hr></hr>
 <p><h1 align="center">💌<b>RESOURCES</b>💌</h1></p>
