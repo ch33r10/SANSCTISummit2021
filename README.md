@@ -46,12 +46,19 @@
 </ul>
 <b></b>
 <p><h1 align="left">💅<b>HAWT TAKES</b></h1></p>
-<ul>
+ <p><h3 align="left"><b>PYRAMID OF PAIN</b></h3></p>
+  <img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/pyramid%20of%20pain.jpg">
+ <p><h3 align="left"><b>INTELLIGENCE LIFECYCLE</b></h3></p>
+ <img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/intellifecycle.jpg">
+ <p><h3 align="left"><b>ANALYSIS OF COMPETING HYPOTHESES</b></h3></p>
+ <img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/ACH.jpg">
+ <p><h3 align="left"><b>DIAMOND MODEL</b></h3></p>
+ <img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/DMofRealEstate.jpg">
+ <ul>
   <li>Sergio Caltagirone. Building Threat Hunting Strategies with the Diamond Model - <a href="http://www.activeresponse.org/building-threat-hunting-strategy-with-the-diamond-model/">Link</a></li>
  <li>Sergio Caltagirone, Andrew Pendergast, & Christopher Betz. The Diamond Model of Intrusion Analysis - <a href="https://apps.dtic.mil/dtic/tr/fulltext/u2/a586960.pdf">Link</a></li> 
   </ul>
-  <img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/pyramid%20of%20pain.jpg">
-  <b></b>
+ <b></b>
 <p><h1 align="left">🦄<b>CTI ANALYST RESOURCES</b></h1></p>
 <ul>
   <li>Troy Hunt's Streamlining Data Breach Disclosures - <a href="https://www.troyhunt.com/streamlining-data-breach-disclosures-a-step-by-step-process/">Link</a></li>
