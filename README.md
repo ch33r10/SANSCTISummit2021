@@ -129,7 +129,7 @@
 <li>Look up Continuing Education or Training related to Cyber Crime and your Industry, such as: Real Estate Training Institute's Cyber Crime and Real Estate Course for 3 Hr Continuing Education Credit - <a href="https://www.realestatetraininginstitute.com/2019/01/10/cyber-crime-and-real-estate/">Link</a></li>
  </ul>
  <b></b>
-<p><h1 align="left">🎀<b>HAND-OUT</b></h1></p>
+<p><h1 align="left">🎀<b>HANDOUTS</b></h1></p>
 <ul>
  <li>There are two HANDOUTS that can be found under the Resources folder in this GitHub Repo. One has a ransomware chart and the other a basic table of cybersecurity solutions - <a href="https://github.com/ch33r10/SANSCTISummit2021/tree/main/Resources">Link</a></li>
  </ul>
