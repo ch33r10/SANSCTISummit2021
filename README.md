@@ -6,7 +6,7 @@
 </p>
 <h3 align="center">🏡THE CTI SHADOW ARMY: TALES FROM THE TRENCHES🏡</h3>
 <h4 align="center">SMALL BUSINESS OWNER/SOLOPRENEUR EDITION</h4>
-<h5 align="center">🎉<a href="https://open.spotify.com/playlist/1BchDbJaikBd09QIhNVXzf">SANS CTI Summit 2021 Spotify Playlist</a>🎉</h5>
+<h1 align="center">🎵<a href="https://open.spotify.com/playlist/1BchDbJaikBd09QIhNVXzf">SANS CTI Summit 2021 Spotify Playlist</a>🎵</h1>
 <p align="center">There's a shadow army of CTI analysts just waiting to be activated; it's the legion of tech-savvy small business owners and solopreneurs. Small business owners and solopreneurs need to wear numerous hats and many have a negative security budget with zero fancy Enterprise security solutions or security staff. How are they surviving the onslaught of cybercrime, fraud, and other unpleasant aspects of doing business? This is where threat intelligence comes in; it's a zero-cost way of keeping your business and customers safe. In this talk, I'll share the practical application of threat intelligence to a real estate business. Join me for an exciting adventure where we will analyze the real estate threat landscape, perform counter intelligence operations, and create threat actor profiles...the tips you learn and share might just save a life! Takeaways include practical CTI suggestions for small businesses and solopreneurs, potential interview questions for hiring managers to ask small business/solopreneur career-transition candidates, and a plan to operationalize threat intelligence for the highly targeted small business owners and solopreneurs in the real estate industry.</p>
 <hr></hr>
 <p><h1 align="center">💌<b>REFERENCES</b>💌</h1></p>
@@ -31,7 +31,7 @@
 </ul>
 <b></b>
 <p><h3 align="left">🔥<b>CYBERSECURITY SOLUTIONS FOR THE REAL ESTATE THREAT LANDSCAPE</b></h3></p>
-<img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/realestatecybersecuritysolutions.jpg">
+<p><img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/realestatecybersecuritysolutions.jpg"></p>
 <b></b>
 <p><h1 align="left">💋<b>TYPES OF ATTACKERS IN REAL ESTATE</b></h1></p>
 <img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/types%20of%20attackers.jpg">
@@ -131,9 +131,10 @@
  <b></b>
 <p><h1 align="left">🎀<b>HAND-OUT</b></h1></p>
 <ul>
- <li>The Hand-out can be found under the Resources folder in this GitHub Repo - <a href="https://github.com/ch33r10/SANSCTISummit2021/blob/main/Resources/realestatehandout.png">Link</a></li>
+ <li>There are two Handouts can be found under the Resources folder in this GitHub Repo. One has a ransomware chart and the other a basic table of cybersecurity solutions - <a href="https://github.com/ch33r10/SANSCTISummit2021/tree/main/Resources">Link</a></li>
  </ul>
 <img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/Resources/realestatehandout.png">
+<img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/Resources/real%20estate%20threat%20landscape.png">
 <hr></hr>
 <h6 align="center"><small>FOR THE LAWYERS</small></h6>
 <h6 align="center"><sub>"The opinions expressed in this Github repo are those of the individual account, in their individual capacity, and not necessarily those of the employers."</sub></h6>
