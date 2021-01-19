@@ -19,7 +19,7 @@
 <b></b>
 <p><h1 align="left">👾<b>RANSOMWARE IN REAL ESTATE</b></h1></p>
 <img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/ransomwareblogs.jpg">
-<img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/TOPrealestateransomware.jpg">
+<img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/realestatetopransomware2.jpg">
 <ul>
  <li>Cybereason vs Conti Ransomware - <a href="https://www.cybereason.com/blog/cybereason-vs.-conti-ransomware">Link</a></li>
  <li>SCYTHE Egregor Ransomware - <a href="https://www.scythe.io/library/threatthursday-egregor-ransomware">Link</a></li>
