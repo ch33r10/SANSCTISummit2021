@@ -131,7 +131,7 @@
  <b></b>
 <p><h1 align="left">🎀<b>HAND-OUT</b></h1></p>
 <ul>
- <li>There are two Handouts can be found under the Resources folder in this GitHub Repo. One has a ransomware chart and the other a basic table of cybersecurity solutions - <a href="https://github.com/ch33r10/SANSCTISummit2021/tree/main/Resources">Link</a></li>
+ <li>There are two HANDOUTS that can be found under the Resources folder in this GitHub Repo. One has a ransomware chart and the other a basic table of cybersecurity solutions - <a href="https://github.com/ch33r10/SANSCTISummit2021/tree/main/Resources">Link</a></li>
  </ul>
 <img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/Resources/realestatehandout.png">
 <img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/Resources/real%20estate%20threat%20landscape.png">
