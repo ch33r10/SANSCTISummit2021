@@ -128,9 +128,9 @@
  <b></b>
 <p><h1 align="left">🎀<b>HAND-OUT</b></h1></p>
 <ul>
- <li>The Hand-out can be found under the Resources folder in this GitHub Repo - <a href="https://github.com/ch33r10/SANSCTISummit2021/blob/main/Resources/real%20estate%20threat%20landscape.png">Link</a></li>
+ <li>The Hand-out can be found under the Resources folder in this GitHub Repo - <a href="https://github.com/ch33r10/SANSCTISummit2021/blob/main/Resources/realestatehandout.png">Link</a></li>
  </ul>
-<img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/Resources/real%20estate%20threat%20landscape.png">
+<img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/Resources/realestatehandout.png">
 <hr></hr>
 <h6 align="center"><small>FOR THE LAWYERS</small></h6>
 <h6 align="center"><sub>"The opinions expressed in this Github repo are those of the individual account, in their individual capacity, and not necessarily those of the employers."</sub></h6>
