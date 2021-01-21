@@ -58,8 +58,15 @@
    </ul>
  <p><h3 align="left"><b>INTELLIGENCE LIFECYCLE</b></h3></p>
  <img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/intellifecycle.jpg">
+ <ul>
+ <li>The Threat Intelligence Lifecycle - <a href="https://www.recordedfuture.com/threat-intelligence-lifecycle-phases/">Link</a></li>
+ </ul>
  <p><h3 align="left"><b>ANALYSIS OF COMPETING HYPOTHESES</b></h3></p>
  <img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/ACH.jpg">
+  <ul>
+  <li>Analysis of Competing Hypotheses (ACH part 1) - <a href="https://isc.sans.edu/forums/diary/Analysis+of+Competing+Hypotheses+ACH+part+1/22460/">Link</a></li>
+  <li>Structured Analytic Techniques for Intelligence Analysis by Richards J. Heuer Jr. & Randolph Pherson - <a href="https://www.amazon.com/dp/B082Z59BKT">Link</a></li>
+  </ul>
  <p><h3 align="left"><b>DIAMOND MODEL</b></h3></p>
  <img src="https://github.com/ch33r10/SANSCTISummit2021/blob/main/img/DMofRealEstate.jpg">
  <ul>
